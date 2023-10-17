@@ -1,20 +1,24 @@
 # Data sources, IDs of Google Sheets where the core date is stored.
 # Specific for ZA.
-localised_sheets = "13do_Qnc0VKC6Ao4N7YY3skUFKJMuwOixj2GyMVwnRLM"
+localised_sheets = "16CuiEMMlsYir0xurUY_3xeZhUK2exGG5D_n4tEy_8xw"
 
 # Shared with all deployments.
 # Multiple content index for different types of content.
 T_content_ID = "1hcH8pFdiHZN0UvZgyv3Zht9ARBTx-VXhNBI2o8L7fHU"
 T_C_onboarding_ID = "12ddvTz_ZfC-9-b0yxjVrSzczciUUE3GosLUFeOLIv9I"
-C_ltp_activities_ID = "1Jx7vOmdefzK62ao2nlJJVLMAIS8d-6r1G8qn0jG8gww"
 T_delivery_ID = "1yf6T8FsNF5SIS7ktj05Wj7ha_Hkfrf66r63kfUWhJbI"
-C_modules_teen_ID = "1ONmD9PF9rcno3ha3QpfrIR5EIvHuuEqJXF3T90rlZ78"
-C_dictionaries_ID = "1uc4WOOlyHTEV8fUGb8nPCYcPj446TRtsV8fucrOCxC4"
-C_home_activity_checkin_ID = "1qjjM2XfkvGVk38GL2OASNkTrXyXuDMAuMUAKmgHYt_s"
 T_C_menu_ID = "1lf80mIiuv_F6xAa9j5zGvXas50WxdSsLj6vrPccGNwY"
-C_goal_checkin_ID = "1gympuD5KdlAdDJSuaVQiXjWSwJxoDcA9K-oBRyKmS7o"
-C_dev_asess_tool_ID = "1OhhQF5yarUDmaSl2tlt7eIT7wJ8bGwNFzI3BOplJYsc"
+
 safeguarding = "1PHgUhJnZdE0lK6C9teK-hwA6Tf-6Pgj1_OVdxoTgVOA"
+
+C_goal_checkin_ID = "1Vc9AFWTUtGQ1HudtXwn5k7Fr5EGFbIcv_FXZ-vUmIC8"
+C_ltp_activities_ID = "1tpaGJ9eljH2kD-KHKWscpR976WGNL39eUQmiFl5rgQQ"
+C_modules_child_ID = "10SEockEn6zKcLuO8dMQbuQRVMs5qQmvnn0jJGhf6fD8"
+C_modules_all_ID = "1p2DJTJs3njg0MDSiBNYj-jBWXmp8RwBFuleFt52BNvI"
+C_home_activity_checkin_ID = "1p3wLYX1FVckuHtwoTICcS2L1z59eqYBlcC2avantvMI"
+C_dev_asess_tool_ID = "1v3_395OAOQjpyHXNGd574VDiABYiekGAw9jtzOzfP0c"
+
+C_dictionaries_ID = "1uc4WOOlyHTEV8fUGb8nPCYcPj446TRtsV8fucrOCxC4"
 
 # "filename" is how it will be generally named in the pipeline.
 #
@@ -37,25 +41,26 @@ safeguarding = "1PHgUhJnZdE0lK6C9teK-hwA6Tf-6Pgj1_OVdxoTgVOA"
 sources = [
     {
         "filename": "parenttext_all",
-        "spreadsheet_ids": [
-            localised_sheets,
+        "spreadsheet_ids": [           
             T_C_onboarding_ID,
             C_ltp_activities_ID,
             T_delivery_ID,
-            C_modules_teen_ID,
+            C_modules_child_ID,
+            C_modules_all_ID,
             C_dictionaries_ID,
             C_home_activity_checkin_ID,
             T_C_menu_ID,
             C_goal_checkin_ID,
             T_content_ID,
             C_dev_asess_tool_ID,
-            safeguarding
+            safeguarding,
+            localised_sheets
         ],
         # "archive": "parenttext_all.zip",
         "archive": "https://drive.usercontent.google.com/download?id=1V9fQZ9ZrzwRkQWBtlHJ1it0Fe3hdtHs2&export=download&authuser=0&confirm=t&uuid=f9d65ff1-b210-4b61-a030-cd4a231c22ca&at=APZUnTVzz2FLSi1riCmRjCFI5vCx:1696348063599",  # noqa: E501
         "crowdin_name": "text_for_translators",
         # "tags": [1, "delivery",1, "menu", 2,"south_africa"],
-        "tags": [2, "south_africa", 3, "teen"],
+        "tags": [2, "china", 3, "child"],
         "split_no": 3
     },
 ]
@@ -70,14 +75,13 @@ model = "models.parenttext_models"
 # Languages that will be looked for to localize back into the flows, "language" is the
 # 3-letter code used in RapidPro, "code" is the 2 letter code used in CrowdIn.
 languages = [
-    {"language": "hau", "code": "ss"},
-    {"language": "zul", "code": "zu"}
+    {"language": "zho", "code": "zh"}
 ]
 
 # Location where translations are stored, at the moment pointing to a locally cloned
 # repo, should maybe be adapted so we can provide a link to an online repo.
 translation_repo = "https://github.com/IDEMSInternational/plh-digital-content"
-folder_within_repo = "translations/parent_text_v2"
+folder_within_repo = "translations/parent_text_v2_china"
 
 # In one of the latter stages we have the option to modify the quick replies:
 # 1 - We may want to remove the quick replies and add them to message text and give
@@ -114,16 +118,16 @@ length_threshold = "18"
 # Google Sheet ID containing AB testing data.
 # Same for all deployments.
 ab_testing_sheet_ID = "1i_oqiJYkeoMsYdeFOcKlvvjnNCEdQnZlsm17fgNvK0s"
-# South Africa specific.
-localisation_sheet_ID = "1FfO-LLjodgEKaBVnn47QrvXaM68Cvui55FS1DKziA2c"
+# China specific.
+localisation_sheet_ID = "1c0FRY-1BeAjoiVrN-mf-BGzmNx4mGPxPqCGpCHd5l5I"
 
 # Google Sheet ID containing dict edits data.
 # Same for all deployments.
 eng_edits_sheet_ID = "1Ab8H_s26EuOiS4nZ6HGADjD4CZw55586LL66fl8tEWI"
-# South Africa specific.
+# China specific. To be updated for China
 transl_edits_sheet_ID = "1fCLPfiqHy1nLLqh1qyvd3zrziw5Tz3uQ6_e7CyuEW-E"
 
-# Data used in safeguarding script.
+# Data used in safeguarding script. To be updated for China
 SG_flow_ID = "b83315a6-b25c-413a-9aa0-953bf60f223c"
 SG_flow_name = "safeguarding_wfr_interaction"
 
