@@ -1,6 +1,6 @@
 # Data sources, IDs of Google Sheets where the core date is stored.
 # Specific for ZA.
-localised_sheets = "16CuiEMMlsYir0xurUY_3xeZhUK2exGG5D_n4tEy_8xw"
+localised_sheets = "1CoYl7lpd6w2xdZzE-Crt-pZT9M5dTHYFm9sWEcX5QAs"
 
 # Shared with all deployments.
 # Multiple content index for different types of content.
