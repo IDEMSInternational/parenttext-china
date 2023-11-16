@@ -125,7 +125,7 @@ localisation_sheet_ID = "1c0FRY-1BeAjoiVrN-mf-BGzmNx4mGPxPqCGpCHd5l5I"
 # Same for all deployments.
 eng_edits_sheet_ID = "1Ab8H_s26EuOiS4nZ6HGADjD4CZw55586LL66fl8tEWI"
 # China specific. To be updated for China
-transl_edits_sheet_ID = "1fCLPfiqHy1nLLqh1qyvd3zrziw5Tz3uQ6_e7CyuEW-E"
+transl_edits_sheet_ID = "1UkGtEMuIQNwpquMieiOGNjMIm2O8WcZFUiM0BoHZv34"
 
 # Data used in safeguarding script. To be updated for China
 SG_flow_ID = "b83315a6-b25c-413a-9aa0-953bf60f223c"
