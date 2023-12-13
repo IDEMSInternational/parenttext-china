@@ -89,8 +89,10 @@ folder_within_repo = "translations/parent_text_v2_china"
 #     reference code "move"
 # 2 - We may want to reformat the quick replies so that long ones are added to the
 #     message text as above - for this use reference code "reformat"
-# 3 - We may not want to do anything, for this use reference code "none"
-qr_treatment = "reformat"
+# 3 - We may want to use the quick replies within WeChat in which case we use a special 
+#     html format - for this use reference code "wechat"
+# 4 - We may not want to do anything, for this use reference code "none"
+qr_treatment = "wechat"
 
 # This is the default phrase we want to add in if the quick replies are being moved to
 # message text.
@@ -114,6 +116,10 @@ special_words = "./edits/special_words.json"
 # numbers and add the number references to the message text as example 1.
 count_threshold = "3"
 length_threshold = "18"
+
+# 'qr_limit' expects an integer input, it is a limit on the number of quick replies 
+# you want to add back in as numerical. It is relevant in scenarios 1 and 2 above
+qr_limit = "100"
 
 # Google Sheet ID containing AB testing data.
 # Same for all deployments.
@@ -157,6 +163,7 @@ def create_config():
         "localisation_sheet_id": localisation_sheet_ID,
         "model": model,
         "qr_treatment": qr_treatment,
+        "qr_limit": qr_limit,
         "redirect_flow_names": redirect_flow_names,
         "select_phrases": select_phrases,
         "sg_flow_id": SG_flow_ID,
