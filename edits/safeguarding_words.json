@@ -2722,5 +2722,41 @@
                 }
             }
         }
+    ],
+    "stop": [
+        {
+            "English": {
+                "keywords": [
+                    "STOP"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u9000\u51fa\u2019\u79d1\u80b2\u65f6\u5149\u2018"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ],
+    "start": [
+        {
+            "English": {
+                "keywords": [
+                    "START"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u7ee7\u7eed\u5b66\u4e60'\u79d1\u80b2\u65f6\u5149'"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
     ]
 }
