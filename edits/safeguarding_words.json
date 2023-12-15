@@ -16,32 +16,16 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukuthumba",
-                        "ukuthumba",
-                        "umthumbi",
-                        "othunjiwe"
+                        "\u7ed1\u67b6",
+                        "\u7ed1\u7968",
+                        "\u62d0\u5356",
+                        "\u62d0\u9a97"
                     ],
                     "mispellings": [
-                        "ukukkumbaa",
-                        "ukuthumbaa",
-                        "ukutthumba",
-                        "ukuthuba"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kutfumba",
-                        "kutfumba",
-                        "umtfumbi",
-                        "lotfunjiwe"
-                    ],
-                    "mispellings": [
-                        "ftumba",
-                        "tfunba",
-                        "tfunnba",
-                        "ukutfumbe"
+                        "\u52ab\u6301",
+                        "\u8bf1\u62d0"
                     ]
                 }
             }
@@ -59,26 +43,16 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukufa",
-                        "ofile",
-                        "ofayo"
+                        "\u6b7b\u4ea1",
+                        "\u6b7b\u4e86",
+                        "\u53bb\u4e16",
+                        "\u53bb\u901d"
                     ],
                     "mispellings": [
-                        "ukkufa",
-                        "ukuf"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kufa",
-                        "lofile",
-                        "lofako"
-                    ],
-                    "mispellings": [
-                        "khufa",
-                        "kuf"
+                        "\u8fc7\u4e16",
+                        "\u901d\u4e16"
                     ]
                 }
             }
@@ -95,24 +69,14 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "okungahambisani nezomthetho"
+                        "\u975e\u6cd5"
                     ],
                     "mispellings": [
-                        "ukugahambisani nezomthetho",
-                        "akungahambisani nezomthetho",
-                        "ugungehambisani nezimthetho"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "lokungekho emtsetfweni"
-                    ],
-                    "mispellings": [
-                        "kungeko emstetfweni",
-                        "ngekho ensteftweni",
-                        "ngalokungeko emstetfeni"
+                        "\u72af\u6cd5",
+                        "\u4e0d\u6cd5",
+                        "\u8fdd\u6cd5"
                     ]
                 }
             }
@@ -133,32 +97,17 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ushevu",
-                        "ukufakela ushevu",
-                        "ofakelwe ushevu"
+                        "\u4e2d\u6bd2",
+                        "\u4e0b\u6bd2",
+                        "\u88ab\u6bd2"
                     ],
                     "mispellings": [
-                        "ushave",
-                        "ofakelwe utsheffu",
-                        "ushevva",
-                        "ukufakela ucevu",
-                        "ofakelwe ucevu"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "shevu",
-                        "kufakela shevu",
-                        "lofakelwe shevu"
-                    ],
-                    "mispellings": [
-                        "shevi",
-                        "lofkelwe shevu",
-                        "hsevu",
-                        "kufakala shebu",
-                        "kufakwe shevu"
+                        "\u6709\u6bd2",
+                        "\u6295\u6bd2",
+                        "\u6bd2\u836f",
+                        "\u519c\u836f"
                     ]
                 }
             }
@@ -175,24 +124,14 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "inhlekelele",
-                        "inhlikelele"
+                        "\u5371\u673a",
+                        "\u5371\u9669"
                     ],
                     "mispellings": [
-                        "inhikilele",
-                        "inhikelele"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "simo lesibucayi",
-                        "simo lesibucayi"
-                    ],
-                    "mispellings": [
-                        "sumo lesibucayi",
-                        "simu lesicayi"
+                        "\u5371\u5bb3",
+                        "\u88ab\u5bb3"
                     ]
                 }
             }
@@ -212,31 +151,14 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "inkinga",
-                        "ukuhlupha",
-                        "ohluphayo",
-                        "ohlushiwe"
+                        "\u56f0\u96be",
+                        "\u56f0\u5883",
+                        "\u9006\u5883",
+                        "\u9ebb\u70e6"
                     ],
-                    "mispellings": [
-                        "inkinge",
-                        "inkenge",
-                        "inkunga"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "inhlupheko",
-                        "kuhlupha",
-                        "lohluphako",
-                        "lohlushiwe"
-                    ],
-                    "mispellings": [
-                        "inkenga",
-                        "inkengs",
-                        "inhlup"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -253,26 +175,15 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "isisulu",
-                        "olimazekile"
+                        "\u53d7\u5bb3\u8005",
+                        "\u53d7\u5bb3"
                     ],
                     "mispellings": [
-                        "isislu",
-                        "olimazegile",
-                        "isiselu"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "lohlushiwe",
-                        "lohlushiwe"
-                    ],
-                    "mispellings": [
-                        "lokhushiwe",
-                        "lohlshiwe",
-                        "lohleshiwe"
+                        "\u88ab\u5bb3",
+                        "\u88ab\u5bb3\u8005",
+                        "\u4fb5\u72af"
                     ]
                 }
             }
@@ -286,28 +197,21 @@
                 "mispellings": [
                     "emergincy",
                     "emergincey",
-                    "emergince"
+                    "emergince",
+                    "imerjensi"
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "isimo zezokuphuthuma"
+                        "\u62a5\u8b66",
+                        "110"
                     ],
                     "mispellings": [
-                        "isimo eziphuthumeyo",
-                        "isimo esiphuthamaye",
-                        "isimo esiphutumanyo"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "simo lesiphutfumako"
-                    ],
-                    "mispellings": [
-                        "simo lsiphutfumako",
-                        "simo lesihpuftumako",
-                        "isimo lesiphutfu"
+                        "\u7d27\u6025",
+                        "\u7740\u6025",
+                        "\u6025",
+                        "\u5371"
                     ]
                 }
             }
@@ -322,32 +226,22 @@
                 "mispellings": [
                     "dangeur",
                     "dangeer",
-                    "dangre"
+                    "dangre",
+                    "dange"
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ingozi",
-                        "okuyingozi",
-                        "engozini"
+                        "\u5371\u9669",
+                        "\u5371\u673a",
+                        "\u5371\u6025"
                     ],
                     "mispellings": [
-                        "ingosi",
-                        "okuyingesi",
-                        "egosine"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "ingoti",
-                        "kuyingoti",
-                        "engotini"
-                    ],
-                    "mispellings": [
-                        "inggoti",
-                        "kuyinguti",
-                        "ingooti"
+                        "\u544a\u6025",
+                        "\u9669",
+                        "\u5371\u5bb3",
+                        "\u60ca\u9669"
                     ]
                 }
             }
@@ -365,26 +259,14 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukucupha"
+                        "\u8ddf\u8e2a"
                     ],
                     "mispellings": [
-                        "ukucopha",
-                        "ukuchopha",
-                        "ukucuphu",
-                        "ukucaphu"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kutuma"
-                    ],
-                    "mispellings": [
-                        "ktuma",
-                        "kutum",
-                        "kutumu",
-                        "kutm"
+                        "\u5c3e\u968f",
+                        "\u76d1\u89c6",
+                        "\u76ef\u68a2"
                     ]
                 }
             }
@@ -404,30 +286,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukulandela",
-                        "olandelwayo"
+                        "\u8ddf\u8e2a",
+                        "\u5c3e\u968f",
+                        "\u76d1\u89c6"
                     ],
-                    "mispellings": [
-                        "ukuladela",
-                        "oladelayo",
-                        "ladelweyo",
-                        "ladelayo"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kulandzela",
-                        "lanzelayo",
-                        "kulandzelwe"
-                    ],
-                    "mispellings": [
-                        "landxelwa",
-                        "landzelws",
-                        "kulandzel",
-                        "kulanzel"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -436,26 +301,28 @@
                 "keywords": [
                     "suffer",
                     "suffering",
-                    "suffered"
+                    "suffered",
+                    "tortured"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "sufer",
+                    "sufering",
+                    "sufered"
+                ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukuzwa ubuhlungu",
-                        "ozwa ubuhlungu",
-                        "ozwe ubuhlungu"
+                        "\u75db\u82e6",
+                        "\u906d\u53d7",
+                        "\u96be\u8fc7",
+                        "\u8650\u5f85"
                     ],
-                    "mispellings": []
-                },
-                "hau": {
-                    "keywords": [
-                        "hlupheka",
-                        "kuhlupheka",
-                        "hluphekile"
-                    ],
-                    "mispellings": []
+                    "mispellings": [
+                        "\u75db",
+                        "\u82e6",
+                        "\u8650"
+                    ]
                 }
             }
         },
@@ -466,24 +333,238 @@
                     "hiding",
                     "hid"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "hidin",
+                    "heed",
+                    "haid"
+                ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukufihla",
-                        "fihla",
-                        "kucashile"
+                        "\u8eb2",
+                        "\u8eb2\u85cf",
+                        "\u8eb2\u907f"
+                    ],
+                    "mispellings": [
+                        "\u9690\u85cf",
+                        "\u9003\u907f",
+                        "\u9003"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "fire",
+                    "wildfire"
+                ],
+                "mispellings": [
+                    "blaze",
+                    "burnt",
+                    "hot",
+                    "fir"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u706b",
+                        "\u706b\u707e"
+                    ],
+                    "mispellings": [
+                        "\u70e7",
+                        "\u7740\u706b",
+                        "\u70ed",
+                        "\u8d77\u706b"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "earthquake",
+                    "Landslide",
+                    "collapse"
+                ],
+                "mispellings": [
+                    "shake",
+                    "irthquake",
+                    "earthquak",
+                    "fall"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u5730\u9707",
+                        "\u5730\u52a8"
                     ],
                     "mispellings": []
-                },
-                "hau": {
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "flood",
+                    "flooded",
+                    "flooding",
+                    "monsoon"
+                ],
+                "mispellings": [
+                    "flud",
+                    "flod",
+                    "munson",
+                    "monson",
+                    "monsun"
+                ]
+            },
+            "Translation": {
+                "zho": {
                     "keywords": [
-                        "fihla",
-                        "kufihla",
-                        "fihlile"
+                        "\u6d2a\u6c34",
+                        "\u6d2a",
+                        "\u6d9d",
+                        "\u6c34\u707e"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "\u5c71\u6d2a",
+                        "\u53d1\u6c34",
+                        "\u53d1\u5927\u6c34",
+                        "\u66b4\u96e8",
+                        "\u51b3\u5824"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "smoke",
+                    "smoked"
+                ],
+                "mispellings": [
+                    "smooke",
+                    "smok"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u70df\u96fe",
+                        "\u6709\u70df"
+                    ],
+                    "mispellings": [
+                        "\u5192\u70df",
+                        "\u8d77\u70df"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "typhoon",
+                    "hurricane",
+                    "tornado",
+                    "cyclone"
+                ],
+                "mispellings": [
+                    "storm",
+                    "rain",
+                    "water",
+                    "stormy"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u53f0\u98ce",
+                        "\u98d3\u98ce",
+                        "\u9f99\u5377\u98ce",
+                        "\u66b4\u98ce"
+                    ],
+                    "mispellings": [
+                        "\u98ce\u66b4",
+                        "\u5927\u96e8",
+                        "\u66b4\u96ea",
+                        "\u66b4\u98ce\u96e8"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "droughts",
+                    "dry",
+                    "aridity"
+                ],
+                "mispellings": [
+                    "dri"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u5e72\u65f1",
+                        "\u65f1",
+                        "\u65f1\u707e"
+                    ],
+                    "mispellings": [
+                        "\u5e72"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "volcanic eruption",
+                    "volcano"
+                ],
+                "mispellings": [
+                    "fire",
+                    "hot"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u706b\u5c71\u55b7\u53d1",
+                        "\u706b\u5c71"
+                    ],
+                    "mispellings": [
+                        "\u706b",
+                        "\u70ed"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "wind",
+                    "blast",
+                    "windy"
+                ],
+                "mispellings": [
+                    "air"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u98ce",
+                        "\u72c2\u98ce",
+                        "\u5927\u98ce"
+                    ],
+                    "mispellings": [
+                        "\u98ce\u529b"
+                    ]
                 }
             }
         }
@@ -503,28 +584,16 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukuhlanza",
-                        "ohlanzile",
-                        "ohlanzayo"
+                        "\u5410",
+                        "\u60f3\u5410",
+                        "\u5455\u5410"
                     ],
                     "mispellings": [
-                        "hhlanza",
-                        "ohanzile",
-                        "hanza"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "hlanta",
-                        "hlantile",
-                        "lohlantako"
-                    ],
-                    "mispellings": [
-                        "hhlanta",
-                        "hlantle",
-                        "hatla"
+                        "\u8981\u5410",
+                        "\u5455",
+                        "\u4f5c\u5455"
                     ]
                 }
             }
@@ -536,24 +605,24 @@
                     "puking",
                     "puked"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "pook",
+                    "pukeing",
+                    "pooking"
+                ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukuhlanza",
-                        "ukuhlanza",
-                        "ukuhlanza"
+                        "\u4f5c\u5455",
+                        "\u5410",
+                        "\u5455\u5410"
                     ],
-                    "mispellings": []
-                },
-                "hau": {
-                    "keywords": [
-                        "hlanta",
-                        "kuhlanta",
-                        "lohlantile"
-                    ],
-                    "mispellings": []
+                    "mispellings": [
+                        "\u8981\u5410",
+                        "\u60f3\u5410",
+                        "\u5410\u4e86"
+                    ]
                 }
             }
         },
@@ -571,28 +640,16 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "isifo",
-                        "STD",
-                        "izifo"
+                        "\u75c5",
+                        "\u6027\u75c5",
+                        "\u75be\u75c5"
                     ],
                     "mispellings": [
-                        "issifo",
-                        "isifoo",
-                        "SDT"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "sifo",
-                        "STD",
-                        "tifo"
-                    ],
-                    "mispellings": [
-                        "ssifo",
-                        "sigo",
-                        "SDT"
+                        "\u6709\u75c5",
+                        "\u5f97\u75c5",
+                        "\u6885\u6bd2"
                     ]
                 }
             }
@@ -606,30 +663,21 @@
                 ],
                 "mispellings": [
                     "sik",
-                    "seck"
+                    "seck",
+                    "seek"
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "gulayo",
-                        "ukugula",
-                        "gulla"
+                        "\u751f\u75c5",
+                        "\u5f97\u75c5",
+                        "\u770b\u75c5"
                     ],
                     "mispellings": [
-                        "gul",
-                        "gela"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "gula",
-                        "kugula",
-                        "butsakatsaka"
-                    ],
-                    "mispellings": [
-                        "guls",
-                        "gulla"
+                        "\u75c5",
+                        "\u6709\u75c5",
+                        "\u75be\u75c5"
                     ]
                 }
             }
@@ -648,28 +696,16 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukugula",
-                        "isifo",
-                        "izifo"
+                        "\u751f\u75c5",
+                        "\u4e0d\u8212\u670d",
+                        "\u5f97\u75c5"
                     ],
                     "mispellings": [
-                        "ukuggula",
-                        "isiffo",
-                        "iziffoo"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "gula",
-                        "kugula",
-                        "tifo"
-                    ],
-                    "mispellings": [
-                        "fula",
-                        "kuggula",
-                        "isiffoo"
+                        "\u6709\u75c5",
+                        "\u75be\u75c5",
+                        "\u75be"
                     ]
                 }
             }
@@ -687,26 +723,15 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ezempilo",
-                        "okunempilo"
+                        "\u5065\u5eb7",
+                        "\u5065\u58ee"
                     ],
                     "mispellings": [
-                        "ezephilo",
-                        "okunempilo",
-                        "ezepphilo"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "imphilo",
-                        "lophilile"
-                    ],
-                    "mispellings": [
-                        "immphilo",
-                        "pilile",
-                        "temhpilo"
+                        "\u5efa\u5eb7",
+                        "\u5b89\u5eb7",
+                        "\u4fdd\u5065"
                     ]
                 }
             }
@@ -719,28 +744,20 @@
                 ],
                 "mispellings": [
                     "hopital",
-                    "hopsital"
+                    "hopsital",
+                    "celinic"
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "isibhedlela",
-                        "umtholampilo"
+                        "\u533b\u9662",
+                        "\u8bca\u6240"
                     ],
                     "mispellings": [
-                        "isibedlela",
-                        "isibhehlela"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "sibhedlela",
-                        "umtfolamphilo"
-                    ],
-                    "mispellings": [
-                        "sihbedlela",
-                        "sibhhedlela"
+                        "\u533b\u770b\u75c5",
+                        "\u533b\u751f",
+                        "\u536b\u751f\u7ad9"
                     ]
                 }
             }
@@ -757,24 +774,14 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukuphuphunyelwa yisisu",
-                        "phuphunyelwa yisisu"
+                        "\u6d41\u4ea7",
+                        "\u5c0f\u4ea7"
                     ],
                     "mispellings": [
-                        "ukupupunyelwa yisisu",
-                        "ukupphupunyelwa yisisu"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kuphunyelwa sisu",
-                        "kuphunyelwa sisu"
-                    ],
-                    "mispellings": [
-                        "kuphhunyelwa ssu",
-                        "kupunyelwa siso"
+                        "\u6d41\u80ce",
+                        "\u6d41\u6389"
                     ]
                 }
             }
@@ -793,28 +800,16 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukukhulelwa",
-                        "ukukhulelwa",
-                        "khulelwe"
+                        "\u6000\u5b55",
+                        "\u6000\u5b69\u5b50",
+                        "\u6709\u5b55"
                     ],
                     "mispellings": [
-                        "ukukulela",
-                        "ukukhelelwa",
-                        "ukukulelwa"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "ukhulelwe",
-                        "kukhulelwa",
-                        "kukhulelwa"
-                    ],
-                    "mispellings": [
-                        "kulela",
-                        "kuhkulelwa",
-                        "kukukhulelwa"
+                        "\u6709\u8eab",
+                        "\u598a\u5a20",
+                        "\u6000\u4e86"
                     ]
                 }
             }
@@ -833,27 +828,16 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukukhipha isisu",
-                        "khipha isisu",
-                        "kukhishwe isisu",
-                        "khipha isisu"
+                        "\u5815\u80ce",
+                        "\u6d41\u4ea7",
+                        "\u6253\u80ce",
+                        "\u6253\u6389"
                     ],
                     "mispellings": [
-                        "ukkukhipha isisu",
-                        "akukhipha isisu"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kukhishwa kwesisu",
-                        "kukhipha sisu",
-                        "kukhishwe sisu"
-                    ],
-                    "mispellings": [
-                        "kukhhipa sisu",
-                        "kukhiipha"
+                        "\u6d41\u6389",
+                        "\u5815"
                     ]
                 }
             }
@@ -867,17 +851,412 @@
                 "mispellings": []
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "COVID",
-                        "COVID19"
+                        "\u75ab\u60c5",
+                        "\u65b0\u51a0"
                     ],
                     "mispellings": []
-                },
-                "hau": {
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "drugs",
+                    "drug"
+                ],
+                "mispellings": [
+                    "drog",
+                    "drogs"
+                ]
+            },
+            "Translation": {
+                "zho": {
                     "keywords": [
-                        "COVID",
-                        "COVID19"
+                        "\u6bd2\u54c1",
+                        "\u5438\u6bd2"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "addict",
+                    "addiction",
+                    "dependence"
+                ],
+                "mispellings": [
+                    "adict",
+                    "adicted"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u6210\u763e",
+                        "\u4e0a\u763e",
+                        "\u4f9d\u8d56"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "cocaine",
+                    "coke",
+                    "blow",
+                    "charlie"
+                ],
+                "mispellings": [
+                    "crack",
+                    "white",
+                    "koke"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u53ef\u5361\u56e0",
+                        "\u5417\u5561",
+                        "\u9ebb\u53e4",
+                        "\u5927\u9ebb"
+                    ],
+                    "mispellings": [
+                        "\u9e26\u7247",
+                        "\u6447\u5934\u4e38",
+                        "\u51b0\u6bd2"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "heroine",
+                    "brown",
+                    "smack",
+                    "skag"
+                ],
+                "mispellings": [
+                    "hose",
+                    "hero",
+                    "fit",
+                    "fun"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u6d77\u6d1b\u56e0"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "high",
+                    "tipsy"
+                ],
+                "mispellings": [
+                    "hi",
+                    "tipsi",
+                    "tipisy",
+                    "tipisi",
+                    "haih"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u55d1\u836f",
+                        "\u5438\u6bd2"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "overdose",
+                    "overdosed"
+                ],
+                "mispellings": [
+                    "overdos"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u5438\u6bd2\u8fc7\u91cf",
+                        "\u8fc7\u91cf\u5438\u6bd2"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "LSD",
+                    "acid",
+                    "cheer",
+                    "drop"
+                ],
+                "mispellings": [
+                    "hallucinogen",
+                    "psychedelic"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "LSD"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "magic mushrooms",
+                    "alice"
+                ],
+                "mispellings": [
+                    "shrooms"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u8ff7\u5e7b\u8611\u83c7"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "alcohol",
+                    "booze",
+                    "drinks",
+                    "alcoholic"
+                ],
+                "mispellings": [
+                    "hooch",
+                    "alcol"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u9152\u7cbe",
+                        "\u9152",
+                        "\u9157\u9152",
+                        "\u9152\u9b3c"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "speed",
+                    "billy",
+                    "paste",
+                    "base"
+                ],
+                "mispellings": [
+                    "whizz",
+                    "amphetamine",
+                    "chasing the dragon",
+                    "dragon",
+                    "whiz",
+                    "uppers"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "poppers",
+                    "liquid gold",
+                    "jungle juice",
+                    "rush"
+                ],
+                "mispellings": [
+                    "buzz",
+                    "inhalant"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "weed",
+                    "cannabis",
+                    "Marijuana",
+                    "dope"
+                ],
+                "mispellings": [
+                    "grass",
+                    "pot",
+                    "CBD",
+                    "THC",
+                    "joint",
+                    "hashish"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u5927\u9ebb"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "ectasy",
+                    "brownies",
+                    "crystal",
+                    "mandy"
+                ],
+                "mispellings": [
+                    "md",
+                    "mdma",
+                    "molly",
+                    "pills"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u6447\u5934\u4e38"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "crystal meth",
+                    "ice",
+                    "meth",
+                    "speed"
+                ],
+                "mispellings": [
+                    "crank"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u51b0\u6bd2"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "ketamine"
+                ],
+                "mispellings": [
+                    "ket"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "k\u7c89"
+                    ],
+                    "mispellings": [
+                        "K\u7c89"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "Morphine"
+                ],
+                "mispellings": [
+                    "morphin"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u5417\u5561"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "Oxycodone",
+                    "Oxy",
+                    "Oxycotton",
+                    "OC"
+                ],
+                "mispellings": [
+                    "kicker",
+                    "hillbilly"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u7f9f\u8003\u916e"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "rehabilitation",
+                    "detoxification"
+                ],
+                "mispellings": [
+                    "rehab"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u6212\u6bd2"
                     ],
                     "mispellings": []
                 }
@@ -899,28 +1278,16 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukwesaba",
-                        "khathazekile",
-                        "ukukhathazeka"
+                        "\u7126\u8651",
+                        "\u8549\u7eff",
+                        "\u4e0d\u5b89"
                     ],
                     "mispellings": [
-                        "ukwecaba",
-                        "gathazekile",
-                        "ukugatazeka"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "luvalo",
-                        "uneluvalo",
-                        "kuba neluvalo"
-                    ],
-                    "mispellings": [
-                        "lubalo",
-                        "luvallo",
-                        "luvelo"
+                        "\u62c5\u5fc3",
+                        "\u62c5\u5fe7",
+                        "\u5bb3\u6015"
                     ]
                 }
             }
@@ -939,28 +1306,16 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ingcindezi",
-                        "okubangelana ingcindezi",
-                        "onengcindezi"
+                        "\u6291\u90c1",
+                        "\u96be\u8fc7",
+                        "\u90c1\u95f7"
                     ],
                     "mispellings": [
-                        "incindezi",
-                        "okubangela ingciinddezi",
-                        "onengcendizi"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kukhatsateka",
-                        "lokukhatsatako",
-                        "khatsatekile"
-                    ],
-                    "mispellings": [
-                        "kukhastata",
-                        "khatseteka",
-                        "kukkhatsateka"
+                        "\u70e6\u95f7",
+                        "\u6101\u95f7",
+                        "\u82e6\u95f7"
                     ]
                 }
             }
@@ -978,26 +1333,15 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "isifo",
-                        "izifo"
+                        "\u969c\u788d",
+                        "\u75be\u75c5"
                     ],
                     "mispellings": [
-                        "isifwo",
-                        "issifo",
-                        "iisfo"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "simo lesingalungi",
-                        "timo letingalungi"
-                    ],
-                    "mispellings": [
-                        "simo llesingalugni",
-                        "simo llesingalungi",
-                        "imo lesingalungi"
+                        "\u75c7",
+                        "\u75c7\u72b6",
+                        "\u75c5"
                     ]
                 }
             }
@@ -1007,20 +1351,22 @@
                 "keywords": [
                     "therapy"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "therapi",
+                    "therepy",
+                    "therepi"
+                ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukwelashwa"
+                        "\u6cbb\u7597"
                     ],
-                    "mispellings": []
-                },
-                "hau": {
-                    "keywords": [
-                        "kwelashwa"
-                    ],
-                    "mispellings": []
+                    "mispellings": [
+                        "\u6cbb",
+                        "\u7597",
+                        "\u54a8\u8be2"
+                    ]
                 }
             }
         },
@@ -1029,20 +1375,20 @@
                 "keywords": [
                     "psychologist"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "sychology",
+                    "psichology"
+                ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "udokotela wezengqondo"
+                        "\u5fc3\u7406\u6cbb\u7597\u5e08"
                     ],
-                    "mispellings": []
-                },
-                "hau": {
-                    "keywords": [
-                        "dokotela wengcondvo"
-                    ],
-                    "mispellings": []
+                    "mispellings": [
+                        "\u6cbb\u7597\u5e08",
+                        "\u5fc3\u7406\u54a8\u8be2"
+                    ]
                 }
             }
         },
@@ -1059,26 +1405,15 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukuzibulala",
-                        "ukuzwa wokuzibulala",
-                        "ukuzibulala"
+                        "\u81ea\u6740",
+                        "\u77ed\u89c1",
+                        "\u81ea\u5bfb\u77ed\u89c1"
                     ],
                     "mispellings": [
-                        "ukuzibhulala",
-                        "ukubula"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kutibulala",
-                        "ukutibulala",
-                        "ukutibulala"
-                    ],
-                    "mispellings": [
-                        "kutibhulala",
-                        "kubulula"
+                        "\u4e0d\u60f3\u6d3b",
+                        "\u60f3\u6b7b"
                     ]
                 }
             }
@@ -1092,30 +1427,19 @@
                 "mispellings": [
                     "stresss",
                     "strees",
-                    "srtess"
+                    "srtess",
+                    "stres"
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "stress",
-                        "one-stress"
+                        "\u538b\u529b",
+                        "\u8d1f\u62c5"
                     ],
                     "mispellings": [
-                        "stresss",
-                        "strees",
-                        "srtess"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kukhatsateka",
-                        "khatsatekile"
-                    ],
-                    "mispellings": [
-                        "khatsata",
-                        "kukhstatateka",
-                        "kukkhatateka"
+                        "\u538b",
+                        "\u91cd\u538b"
                     ]
                 }
             }
@@ -1132,24 +1456,14 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "usizi",
-                        "sosizini"
+                        "\u75db\u82e6",
+                        "\u5fe7\u4f24"
                     ],
                     "mispellings": [
-                        "sosizini",
-                        "khipha stresss"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "lusizi",
-                        "kuba nelusizi"
-                    ],
-                    "mispellings": [
-                        "luzisi",
-                        "luzizi"
+                        "\u82e6\u607c",
+                        "\u60b2\u75db"
                     ]
                 }
             }
@@ -1167,26 +1481,15 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukudabuka",
-                        "dabukile"
+                        "\u96be\u8fc7",
+                        "\u96be\u53d7"
                     ],
                     "mispellings": [
-                        "ukudabukka",
-                        "dabukille",
-                        "ukudabka"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "dzabuka",
-                        "dzabukile"
-                    ],
-                    "mispellings": [
-                        "dzabbuka",
-                        "dxabukile",
-                        "kudzabka"
+                        "\u75db\u5fc3",
+                        "\u5fe7\u4f24",
+                        "\u60b2\u4f24"
                     ]
                 }
             }
@@ -1203,24 +1506,14 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "sabisa",
-                        "ukwesaba"
+                        "\u5bb3\u6015",
+                        "\u60ca\u5413"
                     ],
                     "mispellings": [
-                        "ukwesebese",
-                        "sebesa"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kusabisa",
-                        "kwesaba"
-                    ],
-                    "mispellings": [
-                        "ssaba",
-                        "khwesaba"
+                        "\u6050\u60e7",
+                        "\u5413"
                     ]
                 }
             }
@@ -1235,20 +1528,12 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukwesaba"
+                        "\u6015"
                     ],
                     "mispellings": [
-                        "ukwesube"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kwesaba"
-                    ],
-                    "mispellings": [
-                        "khwesaba"
+                        "\u60ca"
                     ]
                 }
             }
@@ -1263,20 +1548,12 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukukhathazeka"
+                        "\u62c5\u5fc3"
                     ],
                     "mispellings": [
-                        "ukukatazeka"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "khatsatekile"
-                    ],
-                    "mispellings": [
-                        "kkhastatekile"
+                        "\u62c5\u5fe7"
                     ]
                 }
             }
@@ -1293,24 +1570,14 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukwesaba",
-                        "sabisa"
+                        "\u5bb3\u6015",
+                        "\u6015"
                     ],
                     "mispellings": [
-                        "ukwesa",
-                        "ukwessabhisa"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kwesaba",
-                        "sabisa"
-                    ],
-                    "mispellings": [
-                        "kisaba",
-                        "ftusa"
+                        "\u60ca\u5413",
+                        "\u6015"
                     ]
                 }
             }
@@ -1329,28 +1596,16 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukwethuka",
-                        "tatazela",
-                        "thukile"
+                        "\u6050\u614c",
+                        "\u614c\u4e86",
+                        "\u614c"
                     ],
                     "mispellings": [
-                        "ukwetuuka",
-                        "tukhile",
-                        "tathazela"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kutfuka",
-                        "kutfuka",
-                        "tfuka"
-                    ],
-                    "mispellings": [
-                        "kuftuka",
-                        "kwetfuka",
-                        "chachatela"
+                        "\u53d1\u6025",
+                        "\u7740\u6025",
+                        "\u53d1\u614c"
                     ]
                 }
             }
@@ -1366,21 +1621,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukuhlanya"
+                        "\u75af"
                     ],
                     "mispellings": [
-                        "ukuhanya",
-                        "ukuhlaannya"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kuhlanya"
-                    ],
-                    "mispellings": [
-                        "hllanya"
+                        "\u53d1\u75af",
+                        "\u75af\u4e86"
                     ]
                 }
             }
@@ -1396,330 +1643,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "usizi"
+                        "\u60b2\u75db"
                     ],
                     "mispellings": [
-                        "uzizi",
-                        "uzisi"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "lusizi"
-                    ],
-                    "mispellings": [
-                        "luaizi",
-                        "luizi"
-                    ]
-                }
-            }
-        }
-    ],
-    "natural_disasters": [
-        {
-            "English": {
-                "keywords": [
-                    "fire",
-                    "wildfire"
-                ],
-                "mispellings": [
-                    "blaze",
-                    "burnt",
-                    "hot",
-                    "fir"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "umlilo",
-                        "umlilo wequbula"
-                    ],
-                    "mispellings": [
-                        "ilangabi",
-                        "shile",
-                        "kuyashisa",
-                        "umlolo"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "umlilo",
-                        "umlilo wasendle"
-                    ],
-                    "mispellings": [
-                        "langabi",
-                        "shile",
-                        "shisa",
-                        "umlillo"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "earthquake",
-                    "Landslide",
-                    "collapse"
-                ],
-                "mispellings": [
-                    "shake",
-                    "irthquake",
-                    "earthquak",
-                    "fall"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "ukuzamazama komhlaba",
-                        "ukugidlika komhlaba",
-                        "ukubhidlika"
-                    ],
-                    "mispellings": [
-                        "xukuza",
-                        "ukuzamazama komhlebi",
-                        "iwa"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kutamatama kwemhlaba",
-                        "Kugedvuka kwemhlaba",
-                        "kuwela phansi"
-                    ],
-                    "mispellings": [
-                        "kuzamazama",
-                        "kutamatama kwemhlabe",
-                        "kuwa"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "flood",
-                    "flooded",
-                    "flooding",
-                    "monsoon"
-                ],
-                "mispellings": [
-                    "flud",
-                    "flod",
-                    "munson"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "isikhukhula",
-                        "khukhulekile",
-                        "imvula yezikhukhula",
-                        "imvula"
-                    ],
-                    "mispellings": [
-                        "isikukula",
-                        "isikhula",
-                        "imvala"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "sikhukhula",
-                        "kunesikhukhula",
-                        "kukhukhula",
-                        "imvula"
-                    ],
-                    "mispellings": [
-                        "sihkukhula",
-                        "sikhulula",
-                        "imvala"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "smoke",
-                    "smoked"
-                ],
-                "mispellings": [
-                    "smooke",
-                    "smok"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "intuthu",
-                        "okunentuthu"
-                    ],
-                    "mispellings": [
-                        "intuuthu",
-                        "intutha"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "intfutfu",
-                        "kunentfutfu"
-                    ],
-                    "mispellings": [
-                        "bhunya",
-                        "futsa"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "typhoon",
-                    "hurricane",
-                    "tornado",
-                    "cyclone"
-                ],
-                "mispellings": [
-                    "storm",
-                    "rain",
-                    "water",
-                    "stormy"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "isivunguvungu sasolwandle",
-                        "isishingishane",
-                        "inkanyamba",
-                        "isivunguvungu"
-                    ],
-                    "mispellings": [
-                        "isiphepho",
-                        "imvula",
-                        "amanzi",
-                        "iba nesiphepho"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "inkanyamba",
-                        "siphephe",
-                        "sishingishane",
-                        "siphepho"
-                    ],
-                    "mispellings": [
-                        "sipepho",
-                        "imnvula",
-                        "emanti",
-                        "phephetsa"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "droughts",
-                    "dry",
-                    "aridity"
-                ],
-                "mispellings": [
-                    "dri"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "izomiso",
-                        "omile",
-                        "ugwadule"
-                    ],
-                    "mispellings": [
-                        "mi"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "tomiso",
-                        "komile",
-                        "lugwadvule"
-                    ],
-                    "mispellings": [
-                        "komisa"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "volcanic eruption",
-                    "volcano"
-                ],
-                "mispellings": [
-                    "fire",
-                    "hot"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "ukuqubuka kwentabamlilo",
-                        "intabamlilo"
-                    ],
-                    "mispellings": [
-                        "umlilo",
-                        "shisayo"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kukhafula umlilo",
-                        "sikhafulamlilo"
-                    ],
-                    "mispellings": [
-                        "mlilo",
-                        "siyalu semlilo"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "wind",
-                    "blast",
-                    "windy"
-                ],
-                "mispellings": [
-                    "air"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "umoya",
-                        "qhumisa",
-                        "nomoya"
-                    ],
-                    "mispellings": [
-                        "umoya"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "umoya lohhushako",
-                        "umoya lonemandla",
-                        "kuhhusha"
-                    ],
-                    "mispellings": [
-                        "umoya"
+                        "\u4f24\u75db",
+                        "\u54c0\u75db"
                     ]
                 }
             }
@@ -1740,28 +1670,16 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "shaya",
-                        "shaya",
-                        "shaya"
+                        "\u6253",
+                        "\u97ad\u6253",
+                        "\u62bd\u6253"
                     ],
                     "mispellings": [
-                        "sshaya",
-                        "shayya",
-                        "shhaayaa"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "shaya",
-                        "kushaya",
-                        "kushaya"
-                    ],
-                    "mispellings": [
-                        "hsaya",
-                        "yashay",
-                        "shhaya"
+                        "\u75db\u6253",
+                        "\u6253\u4e00\u987f",
+                        "\u4f53\u7f5a"
                     ]
                 }
             }
@@ -1781,31 +1699,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "shaya",
-                        "shaya",
-                        "shaya"
+                        "\u63cd",
+                        "\u6247\u8033\u5149",
+                        "\u62bd"
                     ],
-                    "mispellings": [
-                        "shaaya",
-                        "shayyaa",
-                        "sshaya",
-                        "sheya"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "shaya",
-                        "ushaya",
-                        "ushaya"
-                    ],
-                    "mispellings": [
-                        "shayy",
-                        "betsa",
-                        "kubetsa",
-                        "bets"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -1824,30 +1724,15 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "hlukumeza",
-                        "hlukumezayo",
-                        "hlukumeza",
-                        "ohlukumezekile"
+                        "\u8650\u5f85",
+                        "\u8650",
+                        "\u6b8b\u5bb3",
+                        "\u4f24\u5bb3"
                     ],
                     "mispellings": [
-                        "adlukumezayo",
-                        "dlukumeza",
-                        "dlkumeza"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "hlukubeta",
-                        "lohlukubetako",
-                        "yahlukubeta",
-                        "hlukubetiwe"
-                    ],
-                    "mispellings": [
-                        "hlukumeta",
-                        "yahlukumeta",
-                        "hlkbeta"
+                        "\u5bb3"
                     ]
                 }
             }
@@ -1864,24 +1749,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "nodlame",
-                        "udlame"
+                        "\u66b4\u529b",
+                        "\u7c97\u66b4"
                     ],
                     "mispellings": [
-                        "udlme",
-                        "nohlame"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "unebudlova",
-                        "budlova"
-                    ],
-                    "mispellings": [
-                        "nebuldova",
-                        "bldova"
+                        "\u653b\u51fb"
                     ]
                 }
             }
@@ -1900,29 +1774,14 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ubuhlungu",
-                        "kubuhlungu",
-                        "izinhlungu",
-                        "kubuhlungu"
+                        "\u75db",
+                        "\u597d\u75db",
+                        "\u75bc",
+                        "\u75bc\u75db"
                     ],
-                    "mispellings": [
-                        "dlungu",
-                        "ubudlungu"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "buhlungu",
-                        "kubuhlungu",
-                        "tinhlungu",
-                        "kuvisa buhlungu"
-                    ],
-                    "mispellings": [
-                        "hlungy",
-                        "buhhlung"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -1940,29 +1799,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "igazi",
-                        "opha",
-                        "ophile"
+                        "\u8840",
+                        "\u6d41\u8840",
+                        "\u51fa\u8840"
                     ],
-                    "mispellings": [
-                        "ikazi",
-                        "ophaa",
-                        "oophaa"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "ingati",
-                        "kopha",
-                        "ophile"
-                    ],
-                    "mispellings": [
-                        "ingaati",
-                        "bopha",
-                        "yopha"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -1980,29 +1823,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukuhuzuka",
-                        "huzula",
-                        "ohuzukile"
+                        "\u6de4\u9752",
+                        "\u7600\u4f24",
+                        "\u6de4"
                     ],
-                    "mispellings": [
-                        "ukuhluzula",
-                        "hluzekile",
-                        "ohluzukile"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "umhuzu",
-                        "kuhuzula",
-                        "huzuliwe"
-                    ],
-                    "mispellings": [
-                        "kuhazuka",
-                        "kuhuzla",
-                        "kuhazukile"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2019,27 +1846,12 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukulimala",
-                        "ukulimaza",
-                        "ukulimaza"
+                        "\u75db",
+                        "\u75bc"
                     ],
-                    "mispellings": [
-                        "limeza",
-                        "limmaza"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "limata",
-                        "kulimata",
-                        "kulimata"
-                    ],
-                    "mispellings": [
-                        "linata",
-                        "limmata"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2055,25 +1867,12 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ubuhlungu",
-                        "buhlungu",
-                        "ukuva buhlungu"
+                        "\u75db",
+                        "\u75bc"
                     ],
-                    "mispellings": [
-                        "buhluung"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "buhlungu",
-                        "kuva buhlungu",
-                        "uvise buhlungu"
-                    ],
-                    "mispellings": [
-                        "buhllung"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2088,23 +1887,12 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukulimala",
-                        "limele"
+                        "\u53d7\u4f24",
+                        "\u4f24\u4e86"
                     ],
-                    "mispellings": [
-                        "amanxxebba"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "ingoti yekulimala",
-                        "benengoti yekulimala"
-                    ],
-                    "mispellings": [
-                        "inkoti"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2119,22 +1907,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukusika",
-                        "ukusika"
+                        "\u5272",
+                        "\u5272\u7834"
                     ],
                     "mispellings": [
-                        "ukusikka"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kusika",
-                        "kusika"
-                    ],
-                    "mispellings": [
-                        "aika"
+                        "\u5212\u7834"
                     ]
                 }
             }
@@ -2155,33 +1934,11 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "limaza",
-                        "limaza",
-                        "limazayo",
-                        "limele"
+                        "\u4f24\u5bb3"
                     ],
-                    "mispellings": [
-                        "limmaza",
-                        "limeze",
-                        "limaaza",
-                        "limmasa"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "hlupha",
-                        "kuhlupha",
-                        "yahlupha",
-                        "hluphile"
-                    ],
-                    "mispellings": [
-                        "hlupa",
-                        "hluphe",
-                        "hluupha",
-                        "hllupha"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2200,30 +1957,15 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukushaya ngempama",
-                        "oshaywe ngempama",
-                        "ukushaya ngempama"
+                        "\u6253",
+                        "\u6328\u6253",
+                        "\u63cd"
                     ],
                     "mispellings": [
-                        "oshiywe ngempama",
-                        "ukusshaya ngempama",
-                        "oshhaywe ngempama",
-                        "oshayywe ngempama"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kushaya ngemphama",
-                        "ushaye ngemphama",
-                        "kushaya ngemphama"
-                    ],
-                    "mispellings": [
-                        "kushaywe ngemphama",
-                        "kushaywa ngemphama",
-                        "kushhaya ngemphama",
-                        "ushaya ngemphama"
+                        "\u62bd",
+                        "\u6247\u5df4\u638c"
                     ]
                 }
             }
@@ -2236,24 +1978,18 @@
                     "punching",
                     "punches"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "panch",
+                    "pansh",
+                    "punsh"
+                ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukushaya ngenqindi",
-                        "oshaywe ngenqindi",
-                        "shaya ngenqindi",
-                        "amanqindi"
-                    ],
-                    "mispellings": []
-                },
-                "hau": {
-                    "keywords": [
-                        "shay ngesibhakela",
-                        "shaye ngesibhakela",
-                        "kushaya ngesibhakela",
-                        "tibhakela"
+                        "\u51fb",
+                        "\u51fb\u6253",
+                        "\u62f3\u51fb"
                     ],
                     "mispellings": []
                 }
@@ -2274,30 +2010,17 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukubulala",
-                        "ukubulala",
-                        "obulewe",
-                        "bulala"
+                        "\u6740",
+                        "\u6740\u4eba",
+                        "\u88ab\u6740",
+                        "\u4ed6\u6740"
                     ],
                     "mispellings": [
-                        "bhulala",
-                        "bulaala",
-                        "bhulala"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "bulala",
-                        "kubulala",
-                        "bulele",
-                        "yabulala"
-                    ],
-                    "mispellings": [
-                        "bullala",
-                        "yavulala",
-                        "bulal"
+                        "\u6740\u6389",
+                        "\u8c0b\u6740",
+                        "\u6740\u5bb3"
                     ]
                 }
             }
@@ -2317,31 +2040,14 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukubulala",
-                        "ombulali",
-                        "bulala",
-                        "bulewe"
+                        "\u4ed6\u6740",
+                        "\u6740\u4eba\u72af",
+                        "\u8c0b\u6740",
+                        "\u88ab\u6740"
                     ],
-                    "mispellings": [
-                        "bhelewe",
-                        "bbulali",
-                        "bbulewwe"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kubulala",
-                        "umbulali",
-                        "kubulala",
-                        "bulewe"
-                    ],
-                    "mispellings": [
-                        "bulelwe",
-                        "vulllelwe",
-                        "kbulelwe"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2359,29 +2065,12 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukungqubuza",
-                        "ngqubuza",
-                        "ngqubuziwe"
+                        "\u649e",
+                        "\u649e\u51fb"
                     ],
-                    "mispellings": [
-                        "qhubuza",
-                        "qhubbuza",
-                        "gqubbbuza"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "shaya kakhulu",
-                        "kushaya kakhulu",
-                        "shaye kakhulu"
-                    ],
-                    "mispellings": [
-                        "betsa",
-                        "shaya kakhhulu",
-                        "shayya kakhul"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2397,25 +2086,9 @@
                 ]
             },
             "Translation": {
-                "zul": {
-                    "keywords": [
-                        "ukushaya ngenqindi"
-                    ],
-                    "mispellings": [
-                        "ukusshayya ngenqindi",
-                        "sshaya ngenqindi",
-                        "shhayya ngenqindi"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "sibhakela"
-                    ],
-                    "mispellings": [
-                        "sibakela",
-                        "sbakela",
-                        "sibbakela"
-                    ]
+                "zho": {
+                    "keywords": [],
+                    "mispellings": []
                 }
             }
         },
@@ -2430,22 +2103,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "umhlanga"
+                        "\u68cd\u68d2"
                     ],
                     "mispellings": [
-                        "induku",
-                        "umhhlanga"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "umzaca"
-                    ],
-                    "mispellings": [
-                        "luswati",
-                        "angahle"
+                        "\u68cd\u6253",
+                        "\u68d2\u6253"
                     ]
                 }
             }
@@ -2461,22 +2125,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ibhande"
+                        "\u76ae\u5e26"
                     ],
                     "mispellings": [
-                        "ibhande",
-                        "ibhande"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "libhande"
-                    ],
-                    "mispellings": [
-                        "licotfo",
-                        "libande"
+                        "\u76ae\u97ad",
+                        "\u62bd\u6253"
                     ]
                 }
             }
@@ -2495,29 +2150,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukugwaza",
-                        "gwaza",
-                        "gwaziwe"
+                        "\u6345",
+                        "\u523a",
+                        "\u6233"
                     ],
-                    "mispellings": [
-                        "gwaaaziwe",
-                        "ukugwaazza",
-                        "gwaaaza"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "gwaza",
-                        "kugwaza",
-                        "gwazile"
-                    ],
-                    "mispellings": [
-                        "hlaba",
-                        "fwazile",
-                        "kugwaz"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2535,28 +2174,15 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukumemeza",
-                        "memeza",
-                        "memezile"
+                        "\u5c16\u53eb",
+                        "\u53eb\u558a",
+                        "\u568e\u53eb"
                     ],
                     "mispellings": [
-                        "memezaa",
-                        "mmeemeza",
-                        "mmemezille"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "memeta",
-                        "kumemeta",
-                        "memetile"
-                    ],
-                    "mispellings": [
-                        "nemeta",
-                        "mmeemeta",
-                        "mmemetile"
+                        "\u72c2\u53eb",
+                        "\u60e8\u53eb"
                     ]
                 }
             }
@@ -2574,27 +2200,11 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukududula",
-                        "dudula",
-                        "dudulekile"
+                        "\u63a8"
                     ],
-                    "mispellings": [
-                        "ukuddudula",
-                        "ddudulaa"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "fuca",
-                        "yafuca",
-                        "fucile"
-                    ],
-                    "mispellings": [
-                        "phusha",
-                        "fucca"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2612,29 +2222,12 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukusunduza",
-                        "sunduza",
-                        "sunduziwe"
+                        "\u63a8",
+                        "\u63a8\u649e"
                     ],
-                    "mispellings": [
-                        "zunduaza",
-                        "sunnduziwee",
-                        "shuduza"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "sundvuta",
-                        "kusundvuta",
-                        "sundvutile"
-                    ],
-                    "mispellings": [
-                        "sudvuta",
-                        "sundvvuta",
-                        "suvvuta"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2652,29 +2245,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukukhahlela",
-                        "khahlela",
-                        "khahleliwe"
+                        "\u8e22",
+                        "\u8e39",
+                        "\u8e6c"
                     ],
-                    "mispellings": [
-                        "khaahleliwe",
-                        "ukukhaahlela",
-                        "khaahhlela"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "khahlela",
-                        "kukhahlela",
-                        "khahlele"
-                    ],
-                    "mispellings": [
-                        "khalhela",
-                        "khahlel",
-                        "khahllela"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2692,29 +2269,12 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukushaya",
-                        "shaya",
-                        "shayiwe"
+                        "\u653b\u51fb",
+                        "\u51fb"
                     ],
-                    "mispellings": [
-                        "shhayiwe",
-                        "shhaya",
-                        "shayyiwe"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "shaya",
-                        "yashaya",
-                        "shayile"
-                    ],
-                    "mispellings": [
-                        "shay",
-                        "shayy",
-                        "shayiwe"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2722,36 +2282,23 @@
             "English": {
                 "keywords": [
                     "torture",
-                    "tortured"
+                    "tortured",
+                    "torturing"
                 ],
                 "mispellings": [
-                    "tortue",
-                    "tortued",
-                    "torured"
+                    "torcher",
+                    "tocher",
+                    "torchered"
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukuhlukumeza",
-                        "hlukumeziwe"
+                        "\u6298\u78e8",
+                        "\u6467\u6b8b",
+                        "\u6b8b\u5bb3"
                     ],
-                    "mispellings": [
-                        "hhlukuumeza",
-                        "hlukkumezziwe",
-                        "hhlukumeziwe"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "visa buhlungu",
-                        "kuvisa buhlungu"
-                    ],
-                    "mispellings": [
-                        "visa bulhungu",
-                        "visa buhlung",
-                        "buhllung"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2769,29 +2316,12 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukuphosa",
-                        "phosa",
-                        "phosa"
+                        "\u6254",
+                        "\u6454"
                     ],
-                    "mispellings": [
-                        "posa",
-                        "pphosa",
-                        "pphossa"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "jika",
-                        "kujika",
-                        "yajika"
-                    ],
-                    "mispellings": [
-                        "yika",
-                        "yayika",
-                        "yyika"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2810,30 +2340,17 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukudlwengula",
-                        "dlwengula",
-                        "umdlwenguli"
+                        "\u5f3a\u5978",
+                        "\u6027\u4fb5",
+                        "\u5f3a\u5978\u72af"
                     ],
                     "mispellings": [
-                        "hlwengula",
-                        "dlwenngula",
-                        "ukuddlengula",
-                        "ukudlwwengula"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "dlwengula",
-                        "kudlwengula",
-                        "umdlwenguli"
-                    ],
-                    "mispellings": [
-                        "dlwengulla",
-                        "kuddlwengula",
-                        "kudlengula",
-                        "dlwengula"
+                        "\u7cdf\u8e4b",
+                        "\u5f3a\u66b4",
+                        "\u6027\u4fb5\u5bb3",
+                        "\u6027\u4fb5\u72af"
                     ]
                 }
             }
@@ -2852,29 +2369,12 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "phula",
-                        "ukwephula",
-                        "phuliwe"
+                        "\u4fae\u8fb1",
+                        "\u9a9a\u6270"
                     ],
-                    "mispellings": [
-                        "pula",
-                        "phuula",
-                        "phhuliwe"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "yona",
-                        "kona",
-                        "oniwe"
-                    ],
-                    "mispellings": [
-                        "yonna",
-                        "yoona",
-                        "yonniwe"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2893,31 +2393,11 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ucansi",
-                        "kocansi",
-                        "ngokocansi",
-                        "umyalezo wezocansi"
+                        "\u6027"
                     ],
-                    "mispellings": [
-                        "ukuthumela umyalezo wezocansi",
-                        "xxx",
-                        "ex"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kulalana",
-                        "kwekulalana",
-                        "ngekulalana",
-                        "umlayeto ngekulalana"
-                    ],
-                    "mispellings": [
-                        "kutfumelelana titfombe letikhombisa kungcola",
-                        "xxx",
-                        "ex"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -2934,26 +2414,15 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukuphoqa",
-                        "phoqiwe",
-                        "phoqa"
+                        "\u5f3a\u8feb",
+                        "\u903c\u8feb",
+                        "\u5f3a\u884c"
                     ],
                     "mispellings": [
-                        "ukupoqa",
-                        "poqa"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "phoca",
-                        "phocile",
-                        "kuphoca"
-                    ],
-                    "mispellings": [
-                        "phoc",
-                        "kuphoc"
+                        "\u80c1\u8feb",
+                        "\u903c"
                     ]
                 }
             }
@@ -2972,29 +2441,12 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukucindezela",
-                        "cindezelwe",
-                        "cindezela"
+                        "\u538b\u8feb",
+                        "\u6b3a\u538b"
                     ],
-                    "mispellings": [
-                        "nqindezela",
-                        "chindezelwe",
-                        "ukkucindezela"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "cindzetela",
-                        "cindzetelwe",
-                        "kucindzetela"
-                    ],
-                    "mispellings": [
-                        "chindzetela",
-                        "chindetelwe",
-                        "kucinndetela"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -3011,27 +2463,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukuphoqa",
-                        "phoqa",
-                        "phoqiwe"
+                        "\u903c\u8feb",
+                        "\u5f3a\u5236",
+                        "\u5f3a\u8feb"
                     ],
-                    "mispellings": [
-                        "ukupoqa",
-                        "ukkuphoqa"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "ngekuphoca",
-                        "kuphoca",
-                        "phociwe"
-                    ],
-                    "mispellings": [
-                        "poca",
-                        "kupphoca"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -3048,27 +2486,12 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukungaziphathi kahle",
-                        "ngalungile",
-                        "ngamukeleki"
+                        "\u5e72\u574f\u4e8b",
+                        "\u574f\u4e8b"
                     ],
-                    "mispellings": [
-                        "ukugaziphathi kahle",
-                        "galungile"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kutiphatsa kabi",
-                        "lokungalungi",
-                        "lokungemukeleki"
-                    ],
-                    "mispellings": [
-                        "kutiphasta kabi",
-                        "lokungakungi"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -3084,25 +2507,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukuhlukumeza",
-                        "nyonyobela",
-                        "bhedla"
+                        "\u9a9a\u6270",
+                        "\u5c3e\u968f",
+                        "\u6027\u4fb5"
                     ],
-                    "mispellings": [
-                        "yoyobela"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kuhlukubeta",
-                        "kutuma",
-                        "kwenta bubi"
-                    ],
-                    "mispellings": [
-                        "kuhlupha"
-                    ]
+                    "mispellings": []
                 }
             }
         },
@@ -3117,777 +2528,13 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "ukusola",
-                        "sola"
+                        "\u8d23\u602a",
+                        "\u65a5\u8d23"
                     ],
                     "mispellings": [
-                        "zola"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "sola",
-                        "kusola"
-                    ],
-                    "mispellings": [
-                        "sol"
-                    ]
-                }
-            }
-        }
-    ],
-    "drugs": [
-        {
-            "English": {
-                "keywords": [
-                    "drugs",
-                    "drug"
-                ],
-                "mispellings": [
-                    "drog",
-                    "drogs"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "izidakamizwa",
-                        "dakisa"
-                    ],
-                    "mispellings": [
-                        "dakkisa",
-                        "iziddakamiswa"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "tidzakamiva",
-                        "sidzakamiva"
-                    ],
-                    "mispellings": [
-                        "sidzakwa",
-                        "tidakamiva"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "addict",
-                    "addiction",
-                    "dependence"
-                ],
-                "mispellings": []
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "umhuqa",
-                        "huqekile",
-                        "ncikile"
-                    ],
-                    "mispellings": []
-                },
-                "hau": {
-                    "keywords": [
-                        "umhuci",
-                        "kuhuca",
-                        "kuphila ngetidzakamiva"
-                    ],
-                    "mispellings": []
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "cocaine",
-                    "coke",
-                    "blow",
-                    "charlie"
-                ],
-                "mispellings": [
-                    "crack",
-                    "white",
-                    "koke"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "cocaine",
-                        "coke",
-                        "blow",
-                        "charlie"
-                    ],
-                    "mispellings": [
-                        "crack",
-                        "white",
-                        "koke"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "cocaine",
-                        "coke",
-                        "blow",
-                        "charlie"
-                    ],
-                    "mispellings": [
-                        "sihlahla",
-                        "white",
-                        "koke"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "heroine",
-                    "brown",
-                    "smack",
-                    "skag"
-                ],
-                "mispellings": [
-                    "hose",
-                    "hero"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "heroine",
-                        "brown",
-                        "smack",
-                        "skag"
-                    ],
-                    "mispellings": [
-                        "hose",
-                        "hero"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "horoine",
-                        "brown",
-                        "smack",
-                        "skag"
-                    ],
-                    "mispellings": [
-                        "hose",
-                        "hero"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "high",
-                    "tipsy"
-                ],
-                "mispellings": []
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "ukudakwa",
-                        "dakiwe"
-                    ],
-                    "mispellings": []
-                },
-                "hau": {
-                    "keywords": [
-                        "kudzakwa",
-                        "dzakiwe"
-                    ],
-                    "mispellings": []
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "overdose",
-                    "overdosed"
-                ],
-                "mispellings": []
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "ukweqisa",
-                        "eqisile"
-                    ],
-                    "mispellings": []
-                },
-                "hau": {
-                    "keywords": [
-                        "kwecisa",
-                        "ecisile"
-                    ],
-                    "mispellings": []
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "LSD",
-                    "acid",
-                    "cheer",
-                    "drop"
-                ],
-                "mispellings": []
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "LSD",
-                        "acid",
-                        "cheer",
-                        "drop"
-                    ],
-                    "mispellings": []
-                },
-                "hau": {
-                    "keywords": [
-                        "LSD",
-                        "acid",
-                        "cheer",
-                        "drop"
-                    ],
-                    "mispellings": []
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "magic mushrooms",
-                    "alice"
-                ],
-                "mispellings": [
-                    "shrooms"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "magic mushrooms",
-                        "alice"
-                    ],
-                    "mispellings": [
-                        "shrooms"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "magic mushrooms",
-                        "alice"
-                    ],
-                    "mispellings": [
-                        "makhowe"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "alcohol",
-                    "booze",
-                    "drinks",
-                    "alcoholic"
-                ],
-                "mispellings": [
-                    "hooch",
-                    "alcol"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "utshwala",
-                        "utshwala",
-                        "iziphuzo",
-                        "isidakwa"
-                    ],
-                    "mispellings": [
-                        "utsshwala",
-                        "utshwaala"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "tjwala",
-                        "tjwala",
-                        "tinatfo",
-                        "kwetjwala"
-                    ],
-                    "mispellings": [
-                        "emanti lamponjwana",
-                        "utshwal"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "speed",
-                    "billy",
-                    "paste",
-                    "base"
-                ],
-                "mispellings": [
-                    "whizz"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "speed",
-                        "billy",
-                        "pasta",
-                        "base"
-                    ],
-                    "mispellings": [
-                        "whizz"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "speed",
-                        "billy",
-                        "pasta",
-                        "base"
-                    ],
-                    "mispellings": [
-                        "sipidi"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "poppers",
-                    "liquid gold",
-                    "jungle juice",
-                    "rush"
-                ],
-                "mispellings": [
-                    "buzz"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "poppers",
-                        "liquid gold",
-                        "jungle juice",
-                        "rush"
-                    ],
-                    "mispellings": [
-                        "buzz"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "poppers",
-                        "liquid gold",
-                        "jungle juice",
-                        "rush"
-                    ],
-                    "mispellings": [
-                        "buzz"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "weed",
-                    "cannabis",
-                    "Marijuana",
-                    "dope"
-                ],
-                "mispellings": [
-                    "grass",
-                    "pot",
-                    "CBD",
-                    "THC",
-                    "bud",
-                    "mariguana"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "insangu",
-                        "cannabis",
-                        "Marijuana",
-                        "dope"
-                    ],
-                    "mispellings": [
-                        "grass",
-                        "pot",
-                        "CBD",
-                        "THC",
-                        "bud",
-                        "mariguana"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "insangu",
-                        "cannabis",
-                        "insangu",
-                        "dope"
-                    ],
-                    "mispellings": [
-                        "sihlahla",
-                        "tjani",
-                        "CBD",
-                        "THC",
-                        "bud",
-                        "mariguana"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "ectasy",
-                    "brownies",
-                    "crystal",
-                    "mandy"
-                ],
-                "mispellings": [
-                    "md",
-                    "mdma",
-                    "molly",
-                    "pills"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "ectasy",
-                        "brownies",
-                        "crystal",
-                        "mandy"
-                    ],
-                    "mispellings": [
-                        "md",
-                        "mdma",
-                        "molly",
-                        "pills"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "ectasy",
-                        "brownies",
-                        "crystal",
-                        "mandy"
-                    ],
-                    "mispellings": [
-                        "md",
-                        "mdma",
-                        "molly",
-                        "emaphilisi"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "crystal meth",
-                    "ice",
-                    "meth",
-                    "speed"
-                ],
-                "mispellings": [
-                    "crank"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "crystal meth",
-                        "ice",
-                        "meth",
-                        "speed"
-                    ],
-                    "mispellings": [
-                        "crank"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "crystal meth",
-                        "ice",
-                        "meth",
-                        "speed"
-                    ],
-                    "mispellings": [
-                        "crank"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "ketamine"
-                ],
-                "mispellings": [
-                    "ket"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "ketamine"
-                    ],
-                    "mispellings": [
-                        "ket"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "ketamine"
-                    ],
-                    "mispellings": [
-                        "khethamine"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "Morphine"
-                ],
-                "mispellings": []
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "Morphine"
-                    ],
-                    "mispellings": []
-                },
-                "hau": {
-                    "keywords": [
-                        "Morphine"
-                    ],
-                    "mispellings": []
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "Oxycodone",
-                    "Oxy",
-                    "Oxycotton"
-                ],
-                "mispellings": []
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "Oxycodone",
-                        "Oxy",
-                        "Oxycotton"
-                    ],
-                    "mispellings": []
-                },
-                "hau": {
-                    "keywords": [
-                        "Oxycodone",
-                        "Oxy",
-                        "Oxycotton"
-                    ],
-                    "mispellings": []
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "rehabilitation",
-                    "detoxification"
-                ],
-                "mispellings": [
-                    "rehab"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "ukuvuselelwa kwesimilo",
-                        "ukukhishwa ushevu emzimbeni"
-                    ],
-                    "mispellings": [
-                        "ukuvusswa kwesimilo"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "kubuyesela esimeni",
-                        "kukhipha tidzakamiva"
-                    ],
-                    "mispellings": [
-                        "kubuyiselwa esimeni"
-                    ]
-                }
-            }
-        }
-    ],
-    "safe": [
-        {
-            "English": {
-                "keywords": [
-                    "SAFE",
-                    "Saf",
-                    "sefe",
-                    "sayf"
-                ],
-                "mispellings": [
-                    "cafe",
-                    "seif",
-                    "safety",
-                    "security"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "PHEPHA",
-                        "pepha",
-                        "pephe",
-                        "peephe"
-                    ],
-                    "mispellings": [
-                        "pheepha",
-                        "pephha",
-                        "ezokuphepha",
-                        "ezokuvikeleka"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "PHEPHA",
-                        "pepha",
-                        "phepa",
-                        "phep"
-                    ],
-                    "mispellings": [
-                        "pheepa",
-                        "pheppa",
-                        "kuphepha",
-                        "kuvikeleka"
-                    ]
-                }
-            }
-        }
-    ],
-    "prevent": [
-        {
-            "English": {
-                "keywords": [
-                    "PREVENT",
-                    "pervent",
-                    "provent",
-                    "prevint"
-                ],
-                "mispellings": [
-                    "brevent",
-                    "preven",
-                    "prevnt",
-                    "prevention"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "VIMBELA",
-                        "vibela",
-                        "vubela",
-                        "vembella"
-                    ],
-                    "mispellings": [
-                        "vimbeela",
-                        "vimbella",
-                        "vimbbela",
-                        "ukuvimbela"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "VIMBELA",
-                        "ncandza",
-                        "vumbela",
-                        "vimbella"
-                    ],
-                    "mispellings": [
-                        "vommbela",
-                        "vembela",
-                        "vimbbela",
-                        "kuvimbela"
-                    ]
-                }
-            }
-        }
-    ],
-    "help": [
-        {
-            "English": {
-                "keywords": [
-                    "HELP",
-                    "halp",
-                    "hep",
-                    "hlep"
-                ],
-                "mispellings": [
-                    "hellp",
-                    "sos"
-                ]
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "USIZO",
-                        "usizzo",
-                        "ussizo",
-                        "uusizo"
-                    ],
-                    "mispellings": [
-                        "usiizo",
-                        "sos"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "LUSITO",
-                        "SITA",
-                        "Luncedvo",
-                        "ncedza"
-                    ],
-                    "mispellings": [
-                        "lussito",
-                        "sos"
+                        "\u602a"
                     ]
                 }
             }
@@ -3908,68 +2555,42 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "IMENYU",
-                        "Imenyu Enkulu",
-                        "Imeyu",
-                        "imenyuu"
+                        "\u83dc\u5355",
+                        "\u4e3b\u83dc\u5355",
+                        "\u5f69\u86cb",
+                        "\u91c7\u5355"
                     ],
                     "mispellings": [
-                        "imanyu",
-                        "immenyu"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "MENYU",
-                        "iMENYU",
-                        "immenyu",
-                        "immeyu"
-                    ],
-                    "mispellings": [
-                        "imayu",
-                        "imauu"
+                        "\u5f69\u5f39",
+                        "\u8521\u4e39"
                     ]
                 }
             }
         }
     ],
-    "play": [
+    "help": [
         {
             "English": {
                 "keywords": [
-                    "PLAY",
-                    "paly",
-                    "pla",
-                    "pley"
+                    "HELP",
+                    "halp",
+                    "hep",
+                    "hlep"
                 ],
                 "mispellings": [
-                    "plaay"
+                    "hellp"
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "DLALA",
-                        "dala",
-                        "dlaala",
-                        "dlalla"
+                        "\u5e2e\u52a9",
+                        "\u5e2e\u5fd9",
+                        "\u5e2e"
                     ],
-                    "mispellings": [
-                        "ddlala"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "DLALA",
-                        "dlalla",
-                        "dlaala",
-                        "dlalla"
-                    ],
-                    "mispellings": [
-                        "dllala"
-                    ]
+                    "mispellings": []
                 }
             }
         }
@@ -3990,97 +2611,114 @@
                 ]
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "KHULA",
-                        "UKUKHULA",
-                        "Kula",
-                        "ukukhulaa"
-                    ],
-                    "mispellings": [
-                        "ukuukula",
-                        "ugukhula",
-                        "ugukhuula"
-                    ]
-                },
-                "hau": {
-                    "keywords": [
-                        "KHULA",
-                        "kula",
-                        "tfutfuka",
-                        "kukhula"
-                    ],
-                    "mispellings": [
-                        "kukhuula",
-                        "khukhula",
-                        "khukula"
-                    ]
-                }
-            }
-        }
-    ],
-    "stop": [
-        {
-            "English": {
-                "keywords": [
-                    "STOP",
-                    "stap",
-                    "stahp",
-                    "spot"
-                ],
-                "mispellings": []
-            },
-            "Translation": {
-                "zul": {
-                    "keywords": [
-                        "YIMA",
-                        "YIMI",
-                        "YIME",
-                        "MAYI"
-                    ],
-                    "mispellings": []
-                },
-                "hau": {
-                    "keywords": [
-                        "CEDZA",
-                        "misa",
-                        "yekela",
-                        "ceta"
+                        "\u6210\u957f",
+                        "\u6210\u7ae0"
                     ],
                     "mispellings": []
                 }
             }
         }
     ],
-    "start": [
+    "play": [
         {
             "English": {
                 "keywords": [
-                    "START",
-                    "stert",
-                    "strt",
-                    "stat"
+                    "PLAY",
+                    "paly",
+                    "pla",
+                    "pley"
+                ],
+                "mispellings": [
+                    "plaay"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u6e38\u620f",
+                        "\u6709\u620f",
+                        "\u6709\u559c",
+                        "\u5466\u897f"
+                    ],
+                    "mispellings": [
+                        "\u53f3\u819d"
+                    ]
+                }
+            }
+        }
+    ],
+    "book": [
+        {
+            "English": {
+                "keywords": [
+                    "BOOK",
+                    "Bok",
+                    "Bock"
                 ],
                 "mispellings": []
             },
             "Translation": {
-                "zul": {
+                "zho": {
                     "keywords": [
-                        "QALA",
-                        "qela",
-                        "qaala",
-                        "qalla"
+                        "\u4e66",
+                        "\u6811",
+                        "\u8212"
                     ],
                     "mispellings": []
-                },
-                "hau": {
+                }
+            }
+        }
+    ],
+    "review": [
+        {
+            "English": {
+                "keywords": [
+                    "REVIEW",
+                    "Revew",
+                    "Reveiw",
+                    "Reivew"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "zho": {
                     "keywords": [
-                        "CALA",
-                        "xala",
-                        "calla",
-                        "cla"
+                        "\u56de\u987e",
+                        "\u590d\u4e60",
+                        "\u7236\u7cfb",
+                        "\u60e0\u987e"
                     ],
                     "mispellings": []
+                }
+            }
+        }
+    ],
+    "pause": [
+        {
+            "English": {
+                "keywords": [
+                    "PAUSE",
+                    "Puase",
+                    "Paws",
+                    "Paus"
+                ],
+                "mispellings": [
+                    "Stop"
+                ]
+            },
+            "Translation": {
+                "zho": {
+                    "keywords": [
+                        "\u6682\u505c",
+                        "\u505c\u6b62",
+                        "\u5c55\u5385",
+                        "\u7ad9\u5385"
+                    ],
+                    "mispellings": [
+                        "\u505c"
+                    ]
                 }
             }
         }
