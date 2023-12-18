@@ -129,7 +129,7 @@ localisation_sheet_ID = "1c0FRY-1BeAjoiVrN-mf-BGzmNx4mGPxPqCGpCHd5l5I"
 
 # Google Sheet ID containing dict edits data.
 # Same for all deployments.
-eng_edits_sheet_ID = "1Ab8H_s26EuOiS4nZ6HGADjD4CZw55586LL66fl8tEWI"
+eng_edits_sheet_ID = "13KkCGpENgOUs8smPa7clXwsqurzroMkB0BUMiXF4Tvc"
 # China specific. To be updated for China
 transl_edits_sheet_ID = "1UkGtEMuIQNwpquMieiOGNjMIm2O8WcZFUiM0BoHZv34"
 
