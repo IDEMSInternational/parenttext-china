@@ -1,4 +1,4 @@
-# China Parenttext Pipeline
+# China ParentText Pipeline
 
 This project builds RapidPro flows for the ParentText chatbot. It takes input from specific Google Sheets spreadsheets and produces RapidPro flow JSON files that are ready to upload to any RapidPro server.
 
@@ -6,9 +6,9 @@ This project builds RapidPro flows for the ParentText chatbot. It takes input fr
 
 The pipeline is intended to be run by triggering a Github Actions workflow or by running commands on the command line.
 
-## Github actions (work in progress)
+## Github actions
 
-1. Navigate to the page for the [Produce RapidPro Flows][1] action
+1. Navigate to the page for the [Produce RapidPro Flows][2] action
 2. Click on the _Run workflow_ button; a drop-down will appear
 3. Make sure _Branch_ is set to _main_
 4. Click on the green _Run workflow_ button
@@ -33,14 +33,6 @@ These steps need to be followed if you want to run the pipeline from the command
 
 ## Run
 
-There are two main scripts.
-
-```
-python process_safeguarding_words.py (work in progress)
-```
-
-This process takes Excel files with safeguarding words received from local teams and converts to JSON format that can be digested by the main pipeline. For an example of required Excel input files, see the folder "excel_files" in this repo.
-
 ```
 python -m parenttext_pipeline.cli
 ```
@@ -49,3 +41,4 @@ The main script that contains the full process to produce RapidPro flows from th
 
 
 [1]: https://github.com/IDEMSInternational/parenttext-pipeline/blob/main/docs/configuration.md
+[2]: https://github.com/IDEMSInternational/parenttext-china/actions/workflows/main.yaml
