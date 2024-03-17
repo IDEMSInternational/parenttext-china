@@ -1,5 +1,5 @@
 # Data sources, IDs of Google Sheets where the core date is stored.
-# Specific for ZA.
+# Specific for china.
 localised_sheets = "1CoYl7lpd6w2xdZzE-Crt-pZT9M5dTHYFm9sWEcX5QAs"
 
 # Shared with all deployments.
@@ -58,10 +58,10 @@ sources = [
         ],
         # "archive": "parenttext_all.zip",
         # "archive": "https://drive.usercontent.google.com/download?id=1V9fQZ9ZrzwRkQWBtlHJ1it0Fe3hdtHs2&export=download&authuser=0&confirm=t&uuid=f9d65ff1-b210-4b61-a030-cd4a231c22ca&at=APZUnTVzz2FLSi1riCmRjCFI5vCx:1696348063599",  # noqa: E501
-        "crowdin_name": "modules_child",
-        "tags": [1, "module", 2,"china", 3, "child"],
-        #"tags": [2, "china", 3, "child"],
-        "split_no": 3
+        "crowdin_name": "delivery_menu",
+        #"tags": [1, "delivery",1,"menu", 2,"china", 3, "child"],
+        "tags": [1,"campaign",1,"safeguarding",3, "child"],
+        "split_no": 2
     },
 ]
 
@@ -129,13 +129,13 @@ localisation_sheet_ID = "1c0FRY-1BeAjoiVrN-mf-BGzmNx4mGPxPqCGpCHd5l5I"
 
 # Google Sheet ID containing dict edits data.
 # Same for all deployments.
-eng_edits_sheet_ID = "13KkCGpENgOUs8smPa7clXwsqurzroMkB0BUMiXF4Tvc"
+eng_edits_sheet_ID = "1Ab8H_s26EuOiS4nZ6HGADjD4CZw55586LL66fl8tEWI"
 # China specific. To be updated for China
 transl_edits_sheet_ID = "1UkGtEMuIQNwpquMieiOGNjMIm2O8WcZFUiM0BoHZv34"
 
 # Data used in safeguarding script. To be updated for China
-SG_flow_ID = "b83315a6-b25c-413a-9aa0-953bf60f223c"
-SG_flow_name = "safeguarding_wfr_interaction"
+#SG_flow_ID = "b83315a6-b25c-413a-9aa0-953bf60f223c"
+#SG_flow_name = "safeguarding_wfr_interaction"
 
 # Path to file containing translated safeguarding words.
 SG_path = "./edits/safeguarding_words.json"
@@ -166,8 +166,8 @@ def create_config():
         "qr_limit": qr_limit,
         "redirect_flow_names": redirect_flow_names,
         "select_phrases": select_phrases,
-        "sg_flow_id": SG_flow_ID,
-        "sg_flow_name": SG_flow_name,
+        #"sg_flow_id": SG_flow_ID,
+        #"sg_flow_name": SG_flow_name,
         "sg_path": SG_path,
         "sources": sources,
         "special_expiration": special_expiration,
