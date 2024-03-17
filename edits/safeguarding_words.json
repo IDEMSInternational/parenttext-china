@@ -2705,7 +2705,6 @@
                     "Paus"
                 ],
                 "mispellings": [
-                    "Stop"
                 ]
             },
             "Translation": {
@@ -2717,7 +2716,6 @@
                         "\u7ad9\u5385"
                     ],
                     "mispellings": [
-                        "\u505c"
                     ]
                 }
             }
@@ -2755,10 +2753,9 @@
             "Translation": {
                 "zho": {
                     "keywords": [
-                        "\u4e0a\u8bfe",
-                        "\u4e0a\u5ba2",
-                        "\u4e0a\u79d1",
-                        "\u4e0a\u79d1"
+                        "上课",
+                        "余北学",
+						"余北师"
                     ],
                     "mispellings": []
                 }
