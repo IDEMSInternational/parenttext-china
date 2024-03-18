@@ -41,12 +41,12 @@ C_dictionaries_ID = "1uc4WOOlyHTEV8fUGb8nPCYcPj446TRtsV8fucrOCxC4"
 sources = [
     {
         "filename": "parenttext_all",
-        "spreadsheet_ids": [           
+        "spreadsheet_ids": [
             T_C_onboarding_ID,
             C_ltp_activities_ID,
             T_delivery_ID,
             C_modules_all_ID,
-            C_modules_child_ID,            
+            C_modules_child_ID,
             C_dictionaries_ID,
             C_home_activity_checkin_ID,
             T_C_menu_ID,
@@ -89,7 +89,7 @@ folder_within_repo = "translations/parent_text_v2_china"
 #     reference code "move"
 # 2 - We may want to reformat the quick replies so that long ones are added to the
 #     message text as above - for this use reference code "reformat"
-# 3 - We may want to use the quick replies within WeChat in which case we use a special 
+# 3 - We may want to use the quick replies within WeChat in which case we use a special
 #     html format - for this use reference code "wechat"
 # 4 - We may not want to do anything, for this use reference code "none"
 qr_treatment = "wechat"
@@ -117,7 +117,7 @@ special_words = "./edits/special_words.json"
 count_threshold = "3"
 length_threshold = "18"
 
-# 'qr_limit' expects an integer input, it is a limit on the number of quick replies 
+# 'qr_limit' expects an integer input, it is a limit on the number of quick replies
 # you want to add back in as numerical. It is relevant in scenarios 1 and 2 above
 qr_limit = "100"
 
@@ -132,13 +132,6 @@ localisation_sheet_ID = "1c0FRY-1BeAjoiVrN-mf-BGzmNx4mGPxPqCGpCHd5l5I"
 eng_edits_sheet_ID = "1Ab8H_s26EuOiS4nZ6HGADjD4CZw55586LL66fl8tEWI"
 # China specific. To be updated for China
 transl_edits_sheet_ID = "1UkGtEMuIQNwpquMieiOGNjMIm2O8WcZFUiM0BoHZv34"
-
-# Data used in safeguarding script. To be updated for China
-#SG_flow_ID = "b83315a6-b25c-413a-9aa0-953bf60f223c"
-#SG_flow_name = "safeguarding_wfr_interaction"
-
-# Path to file containing translated safeguarding words.
-SG_path = "./edits/safeguarding_words.json"
 
 # Names of redirect flows to be modified as part of safeguarding process.
 redirect_flow_names = (
@@ -166,8 +159,8 @@ def create_config():
         "qr_limit": qr_limit,
         "redirect_flow_names": redirect_flow_names,
         "select_phrases": select_phrases,
-        #"sg_flow_id": SG_flow_ID,
-        #"sg_flow_name": SG_flow_name,
+        # "sg_flow_id": "b83315a6-b25c-413a-9aa0-953bf60f223c",
+        # "sg_flow_name": "safeguarding_wfr_interaction",
         "sg_sources": [
             {"key": "zho", "path": "excel_files/safeguarding chinese.xlsx"}
         ],
