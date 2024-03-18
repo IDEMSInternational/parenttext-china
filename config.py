@@ -168,7 +168,9 @@ def create_config():
         "select_phrases": select_phrases,
         #"sg_flow_id": SG_flow_ID,
         #"sg_flow_name": SG_flow_name,
-        "sg_path": SG_path,
+        "sg_sources": [
+            {"key": "zho", "path": "excel_files/safeguarding chinese.xlsx"}
+        ],
         "sources": sources,
         "special_expiration": special_expiration,
         "special_words": special_words,
