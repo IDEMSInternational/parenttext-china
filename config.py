@@ -114,8 +114,8 @@ special_words = "./edits/special_words.json"
 # the node will not be changed.
 # In places where the QR are too long. We will make the changes to make the QRs
 # numbers and add the number references to the message text as example 1.
-count_threshold = "3"
-length_threshold = "18"
+count_threshold = "1"
+length_threshold = "1"
 
 # 'qr_limit' expects an integer input, it is a limit on the number of quick replies
 # you want to add back in as numerical. It is relevant in scenarios 1 and 2 above
