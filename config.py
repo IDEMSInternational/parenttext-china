@@ -60,7 +60,7 @@ sources = [
         # "archive": "https://drive.usercontent.google.com/download?id=1V9fQZ9ZrzwRkQWBtlHJ1it0Fe3hdtHs2&export=download&authuser=0&confirm=t&uuid=f9d65ff1-b210-4b61-a030-cd4a231c22ca&at=APZUnTVzz2FLSi1riCmRjCFI5vCx:1696348063599",  # noqa: E501
         "crowdin_name": "delivery_menu",
         #"tags": [1, "delivery",1,"menu", 2,"china", 3, "child"],
-        "tags": [1,"campaign",1,"safeguarding",3, "child"],
+        "tags": [3, "child"],
         "split_no": 2
     },
 ]
