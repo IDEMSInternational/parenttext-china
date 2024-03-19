@@ -92,7 +92,7 @@ folder_within_repo = "translations/parent_text_v2_china"
 # 3 - We may want to use the quick replies within WeChat in which case we use a special
 #     html format - for this use reference code "wechat"
 # 4 - We may not want to do anything, for this use reference code "none"
-qr_treatment = "wechat"
+qr_treatment = "reformat_china"
 
 # This is the default phrase we want to add in if the quick replies are being moved to
 # message text.
